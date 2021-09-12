@@ -1,6 +1,4 @@
 
-[![Hello 👋🏻](https://res.cloudinary.com/dd6yota5v/image/upload/v1595612102/photography-of-laptop-computer-camera-smartphone-headphones-705164_2_vezax8.jpg)]()
-
 
 # About
 
