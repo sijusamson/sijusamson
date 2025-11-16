@@ -12,4 +12,4 @@ Take a look at my work and reach me at: https://www.sijusamson.com/
 - LinkedIn: https://www.linkedin.com/in/siju-samson/
 - Instagram: https://www.instagram.com/sijusamson/?hl=en
 - GitHub: https://github.com/sijusamson
-- Website: https://www.sijusamson.com/ 
+- Website: https://sijusamson.github.io/ 
